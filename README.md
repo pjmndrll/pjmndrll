@@ -1,4 +1,4 @@
-# Pau Mandrilla
+# pjmndrll
 
 ## AI for Social Impact Advocate | Machine Learning Engineer | Analytics Specialist
 ---
