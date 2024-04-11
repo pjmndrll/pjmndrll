@@ -1,4 +1,4 @@
-# Pauline Jane Mandrilla
+# Pau Mandrilla
 
 ## AI for Social Impact Advocate | Machine Learning Engineer | Analytics Specialist
 ---
